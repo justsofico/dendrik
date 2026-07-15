@@ -1,0 +1,2 @@
+# dendrik
+Clipboard History Analyzer
